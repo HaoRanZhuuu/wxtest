@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MysqlTset"
+  id="myeclipse.1531444306646"
+  context-root="/MysqlTset"
+  j2ee-spec="5.0"
+  archive="MysqlTset.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
